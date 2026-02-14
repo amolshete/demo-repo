@@ -5,3 +5,6 @@ this is the forth line
 this is the some change 
 this code line is from main branch
 this is the 2nd line code from main branch
+this is 1st line I am writing on feature branch
+this is 2nd line I am writing on feature branch
+
